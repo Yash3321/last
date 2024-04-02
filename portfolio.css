@@ -17,10 +17,6 @@ nav{
     font-weight: bold;
     background-color: #fff;
     box-shadow:0 1px 4px rgba(146, 161, 176, 0.15)
-    
-    
-    
-
 }
 .navbar{
     display: flex;
@@ -148,6 +144,11 @@ button{
 
 .Contactcolor{
     color: #fff;
+}
+form{
+    /* background-color: red; */
+    padding-left: 3rem ;
+
 }
 .footer{
     color: white;
