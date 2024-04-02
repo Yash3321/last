@@ -1,7 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    /* transition: 0.3s */
+    transition: 0.3s
     
 
     /* box-sizing: border-box ; */
@@ -140,6 +140,7 @@ button{
     font-weight: bold;
     border-radius: 0.5rem;
     transition: 0.3s
+    
 }
 
 .Contactcolor{
